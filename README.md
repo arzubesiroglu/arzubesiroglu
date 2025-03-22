@@ -20,8 +20,10 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Retail Sales Forecast | 50M‑row time series forecasting dashboard in Power BI + Python | 🔗 [Repo](https://github.com/arzubesiroglu/retail-forecast) |
-| Customer Segmentation | K‑Means clustering & insights report in Tableau | 🔗 [Medium](https://linktr.ee/arzubesiroglu) |
+| 📊 Tableau Public Visualizations | Interactive dashboards & analyses published on Tableau Public | 🔗 [View all my vizzes](https://public.tableau.com/app/profile/arzubesiroglu/vizzes) |
+| 📖 Medium Articles | In‑depth write‑ups on data science, analytics & Python | 🔗 [Read my articles on Medium](https://medium.com/@besirogluarzu) |
+| 🏆 Kaggle Profile | Data science competitions, notebooks & datasets | 🔗 [Visit my Kaggle](https://www.kaggle.com/arzubesiroglu) |
+| 🤗 Hugging Face | Machine learning models, demos & datasets | 🔗 [Explore on Hugging Face](https://huggingface.co/arzubesiroglu) |
 
 ---
 
