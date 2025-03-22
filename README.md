@@ -6,19 +6,11 @@
 
 ---
 
-## 📫 Connect with me
 ## 📫 Contact & Social
 
-| 📍 Location | ✉️ Email | 🔗 LinkedIn | 🏆 Kaggle | 🌐 Linktree |
-|-------------|----------|-------------|-----------|-------------|
-| Kocaeli, Türkiye | [besirogluarzu@gmail.com](mailto:besirogluarzu@gmail.com) | [arzubesiroglu](https://www.linkedin.com/in/arzubesiroglu/) | [arzubesiroglu](https://www.kaggle.com/arzubesiroglu) | [arzubesiroglu](https://linktr.ee/arzubesiroglu) |
-
----
-
-🔎 **Open to** Data Scientist, Data Analyst & QA roles  
-🤝 **500+ connections** on LinkedIn  
-🚀 Passionate about turning data into actionable insights  
-
+<p align="center">
+  📍 Kocaeli, Türkiye • ✉️ <a href="mailto:besirogluarzu@gmail.com">besirogluarzu@gmail.com</a> • 🔗 <a href="https://www.linkedin.com/in/arzubesiroglu/">LinkedIn</a> • 🏆 <a href="https://www.kaggle.com/arzubesiroglu">Kaggle</a> • 🌐 <a href="https://linktr.ee/arzubesiroglu">Linktree</a>
+</p>
 
 ---
 
@@ -64,5 +56,3 @@
 ---
 
 ✨ Thanks for visiting — feel free to ⭐ my repos or drop a 👋 to connect!
-
-
