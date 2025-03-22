@@ -29,7 +29,9 @@
 
 ### 📈 GitHub Stats
 
-![Arzu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true&theme=default)
+- ![Arzu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true)
++ ![Arzu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true&include_all_commits=true)
+
 
 ---
 
