@@ -9,7 +9,10 @@
 ## 📫 Contact & Social
 
 <p align="center">
-  📍 Kocaeli, Türkiye • ✉️ <a href="mailto:besirogluarzu@gmail.com">besirogluarzu@gmail.com</a> • 🔗 <a href="https://www.linkedin.com/in/arzubesiroglu/">LinkedIn</a> • 🏆 <a href="https://www.kaggle.com/arzubesiroglu">Kaggle</a> • 🌐 <a href="https://linktr.ee/arzubesiroglu">Linktree</a>
+  📍  • ✉️ <a href="mailto:besirogluarzu@gmail.com">besirogluarzu@gmail.com</a> 
+     • 🔗 <a href="https://www.linkedin.com/in/arzubesiroglu/">LinkedIn</a> 
+     • 🏆 <a href="https://www.kaggle.com/arzubesiroglu">Kaggle</a> 
+     • 🌐 <a href="https://linktr.ee/arzubesiroglu">Linktree</a>
 </p>
 
 ---
