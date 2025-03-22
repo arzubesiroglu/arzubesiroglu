@@ -9,14 +9,15 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftpowerbi.svg" width="40" title="Power BI"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" width="40" title="Tableau"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" width="40" title="Streamlit"/>
 </p>
+
 
 ---
 
