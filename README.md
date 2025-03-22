@@ -35,7 +35,7 @@
 
 ### 📫 Connect & Explore
 
-✉️ besirogluarzu@gmail.com  
+✉️ Mail     →  besirogluarzu@gmail.com  
 🔗 LinkedIn → https://www.linkedin.com/in/arzubesiroglu/  
 🌐 Linktree → https://linktr.ee/arzubesiroglu
 
