@@ -20,7 +20,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+  <!-- 2024 Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&year=2024" alt="GitHub Stats 2024"/>
+
+  <!-- Spacer -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- 2025 Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&year=2025" alt="GitHub Stats 2025"/>
 </p>
 
 ---
