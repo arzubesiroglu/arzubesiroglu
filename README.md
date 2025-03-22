@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arzubesiroglu/arzubesiroglu/main/banner.png" alt="Data Science & Analytics Banner" width="100%"/>
-</p>
 
 # 👋 Merhaba, I’m Arzu Beşiroğlu
 
