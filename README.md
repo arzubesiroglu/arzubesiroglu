@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/arzubesiroglu/arzubesiroglu/blob/main/banner.png" alt="Data Science & Analytics Banner" width="100%"/>
+</p>
+
 # 👋 Merhaba, I’m Arzu Beşiroğlu
 
 🔍 **Data Scientist | Data Analyst | Econometrician | QA Specialist**  
@@ -5,44 +10,55 @@
 
 ---
 
-### 🚀 Data Science Focus
-
-- 🔬 Machine Learning Models (Regression, Classification, Clustering)  
-- 📊 Exploratory Data Analysis & Feature Engineering  
-- 📈 Time Series Forecasting & Predictive Analytics  
-- 🧪 A/B Testing & Experimental Design  
-- 🗄️ Big Data Processing (Pandas, NumPy, SQL)  
-- 🖥️ Deployment with Streamlit & Flask
+## 📫 Connect with me
+<p align="center">
+  <a href="mailto:besirogluarzu@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/arzubesiroglu/">🔗 LinkedIn</a> • 
+  <a href="https://linktr.ee/arzubesiroglu">🌐 Linktree</a>
+</p>
 
 ---
 
-### 📚 Featured Projects
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arzubesiroglu&theme=dark" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📚 Featured Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 📊 Tableau Public Visualizations | Interactive dashboards & analyses published on Tableau Public | 🔗 [View all my vizzes](https://public.tableau.com/app/profile/arzubesiroglu/vizzes) |
-| 📖 Medium Articles | In‑depth write‑ups on data science, analytics & Python | 🔗 [Read my articles on Medium](https://medium.com/@besirogluarzu) |
-| 🏆 Kaggle Profile | Data science competitions, notebooks & datasets | 🔗 [Visit my Kaggle](https://www.kaggle.com/arzubesiroglu) |
-| 🤗 Hugging Face | Machine learning models, demos & datasets | 🔗 [Explore on Hugging Face](https://huggingface.co/arzubesiroglu) |
+| 📊 Tableau Public | Interactive dashboards & analyses | 🔗 [View all vizzes](https://public.tableau.com/app/profile/arzubesiroglu/vizzes) |
+| 🏆 Kaggle | Competitions, notebooks & datasets | 🔗 [Visit Kaggle](https://www.kaggle.com/arzubesiroglu) |
+| 🤗 Hugging Face | ML models & demos | 🔗 [Explore HF](https://huggingface.co/arzubesiroglu) |
+| 📖 Medium | Data science & analytics articles | 🔗 [Read on Medium](https://medium.com/@besirogluarzu) |
 
 ---
 
-### 📈 GitHub Stats
+✨ Thanks for visiting — feel free to ⭐ my repos or drop a 👋 to connect!
 
-- ![Arzu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true)
-+ ![Arzu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=arzubesiroglu&show_icons=true&include_all_commits=true)
-
-
----
-
-### 📫 Connect & Explore
-
-✉️ Mail     →  besirogluarzu@gmail.com  
-🔗 LinkedIn → https://www.linkedin.com/in/arzubesiroglu/  
-🌐 Linktree → https://linktr.ee/arzubesiroglu
-
----
-
-> “Transforming data into actionable insights — one model at a time.”  
-
-✨ Feel free to ⭐ my repos, fork projects, or drop a 👋 to collaborate!
