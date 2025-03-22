@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/arzubesiroglu/arzubesiroglu/blob/main/banner.png" alt="Data Science & Analytics Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/arzubesiroglu/arzubesiroglu/main/banner.png" alt="Data Science & Analytics Banner" width="100%"/>
 </p>
 
 # 👋 Merhaba, I’m Arzu Beşiroğlu
@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
@@ -61,4 +61,5 @@
 ---
 
 ✨ Thanks for visiting — feel free to ⭐ my repos or drop a 👋 to connect!
+
 
